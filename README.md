@@ -2,7 +2,7 @@
 
 > 模仿git 的提交热力图
 
-![Alt](/src/assets/webView.png)
+![image](https://wall-e.oss-accelerate.aliyuncs.com/img/webView.png?OSSAccessKeyId=LTAI5tEE7ch8j27CfjAswddg&Expires=1655886758&Signature=sRrvO7dvrwnnS9acP0lF5SeFNKY%3D)
 
 ## Build Setup
 
