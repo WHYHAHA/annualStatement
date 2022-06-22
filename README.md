@@ -2,7 +2,7 @@
 
 > 模仿git 的提交热力图
 
-![image](webView.png)
+![Alt](/src/assets/webView.png)
 
 ## Build Setup
 
